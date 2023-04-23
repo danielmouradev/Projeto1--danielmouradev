@@ -1,0 +1,4 @@
+Digite seu nome: 
+Digite sua data de nascimento: 
+Digite seu email:
+Digite uma senha: 
